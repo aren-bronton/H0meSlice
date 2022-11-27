@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @H0meSlice
-- 👀 I’m interested in Learning Python/Java/C++
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Advanced - 
+Intermediate - Java
+Beginner - Python, JS, C++
+
 
 <!---
 H0meSlice/H0meSlice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
