@@ -1,6 +1,6 @@
-Advanced - 
-Intermediate - Java
-Beginner - Python, JS, C++
+Advanced - Java
+Intermediate - Python
+Beginner - JS, C++
 
 
 <!---
